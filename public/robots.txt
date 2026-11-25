@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://vinaypackersandmovers.in/sitemap.xml
+Sitemap: https://vinaypackers.onrender.com/sitemap.xml
